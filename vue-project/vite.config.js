@@ -6,7 +6,7 @@ import vue from '@vitejs/plugin-vue'
 // https://vitejs.dev/config/
 export default defineConfig({
   //Search path
-  base: '/moment-3-frontend-ramverk-rasmus-ason/',
+  base: '/frontend-vue/',
   plugins: [vue()],
   resolve: {
     alias: {
